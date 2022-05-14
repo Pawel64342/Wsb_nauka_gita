@@ -6,7 +6,7 @@ function srednia(a,b){
 }
 
 function srednia_w(a,b){
-	return a*0.22+b*0.5
+	return a*0.1+b*0.1
 	
 	
 }
